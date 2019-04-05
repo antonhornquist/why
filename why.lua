@@ -1,6 +1,5 @@
--- why.
--- classic supercollider example
--- by jmcc
+-- scriptname: why
+-- v1.0.0 @jah
 
 engine.name = 'Why'
 
